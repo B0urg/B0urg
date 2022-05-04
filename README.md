@@ -5,3 +5,4 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=b0urg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 If you have any question contact me on Discord (Bourg#6238, I don't accept friend requests from strangers!)
+![](https://komarev.com/ghpvc/?username=B0urg&color=green)
