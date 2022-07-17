@@ -5,5 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 If you have any questions, contact me on Twitter [@B0urgDev](https://twitter.com/B0urgDev)
-If you want, you can leave a message in my [Guestbook 📖](https://github.com/B0urg/B0urg/discussions/1)
-
+- If you want, you can leave a message in my [Guestbook 📖](https://github.com/B0urg/B0urg/discussions/1)
