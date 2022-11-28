@@ -18,7 +18,7 @@
 
     The "official" bot of the Level2 Hackerspace Luxemburg(but it don't really works)
 
-#### [(2022-07)](https://github.com/felixgasiaux/CodeClub_LYRC_Robot_2022)
+#### [LYRC 2022(2022-07)](https://github.com/felixgasiaux/CodeClub_LYRC_Robot_2022)
 
     In July 2022, I took part in the LYRIC (Luxembourg youth robotic challenge) in the Level2 Codeclub team.
    </details>
