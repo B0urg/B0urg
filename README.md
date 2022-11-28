@@ -8,7 +8,7 @@
 
 - 📫 If you have any questions, contact me on Discord [@Bourg#6238](https://discord.com/users/933699621878906921)
 <details>
-  <summary>My Projects UwU</summary>
+  <summary>My Projects </summary>
 
 #### [GamJam 2 by Devcord(2022-11)](https://github.com/B0urg/DevCord-PluginJam-2022-11)
     
