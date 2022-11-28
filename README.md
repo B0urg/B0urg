@@ -12,7 +12,7 @@
 
 #### [GamJam 2 by Devcord(2022-11)](https://github.com/B0urg/DevCord-PluginJam-2022-11)
     
-    In november 2022, i contribiuted in the second GamJam by DevCord and got 4th Place 😊.
+    In november 2022, i contribiuted in the second PluginJam by DevCord and got 4th Place 😊.
 
 #### [Level2Bot(2022-08)(But i think i will recode this in the futur in Kotlin of course😉)](https://github.com/B0urg/Level2Bot)
 
