@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0urg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 If you have any questions, contact me on Discord [@Bourg#6238](https://discord.com/users/933699621878906921)
+- 📫 If you have any questions, contact me on Discord [@Bourg#0001](https://discord.com/users/933699621878906921)
 <details>
   <summary>My Projects </summary>
 
