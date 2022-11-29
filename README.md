@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=B0urg&color=blue)
 ### Hi there 👋
 
-> I'm a hobby software developer, I mostly work with the JVM languages and I  have basic knowledge of the web backend(Js, Sql). I'm often busy developing tools for other Devs!
+> I do some Java & Sql stuff(Yeah i know) and some minecraft stuff too. Also i'm currently learning Kotlin.
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0urg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 If you want to contact me just use Discord ([@Bourg#0001](https://discord.com/users/933699621878906921))
 <details>
@@ -22,3 +22,10 @@
 
     In July 2022, I took part in the LYRIC (Luxembourg youth robotic challenge) in the Level2 Codeclub team.
    </details>
+
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0urg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
