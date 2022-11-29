@@ -10,7 +10,7 @@
 <details>
   <summary>My Projects </summary>
 
-#### [GamJam 2 by Devcord(2022-11)](https://github.com/B0urg/DevCord-PluginJam-2022-11)
+#### [Plugin 2 by Devcord(2022-11)](https://github.com/B0urg/DevCord-PluginJam-2022-11)
     
     In november 2022, i contribiuted in the second PluginJam by DevCord and got 4th Place 😊.
 
