@@ -7,10 +7,10 @@
 
 
 ## Tools & Languages
-![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/INTELLIJ_IDEA.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GIT.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GITHUB.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/DOCKER.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GRADLE.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GITLAB.svg)
+![](https://media.gb0.pw/gh-profile/assets/INTELLIJ_IDEA.svg) ![](https://media.gb0.pw/gh-profile/assets/GIT.svg) ![](https://media.gb0.pw/gh-profile/assets/GITHUB.svg) ![](https://media.gb0.pw/gh-profile/assets/DOCKER.svg) ![](https://media.gb0.pw/gh-profile/assets/GRADLE.svg) ![](https://media.gb0.pw/gh-profile/assets/GITLAB.svg)
 
-![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/JAVA.svg)
-![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/NODE.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/JAVASCRIPT.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/HTML5.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/CSS3.svg) 
+![](https://media.gb0.pw/gh-profile/assets/JAVA.svg)
+![](https://media.gb0.pw/gh-profile/assets/NODE.svg) ![](https://media.gb0.pw/gh-profile/assets/JAVASCRIPT.svg) ![](https://media.gb0.pw/gh-profile/assets/HTML5.svg) ![](https://media.gb0.pw/gh-profile/assets/CSS3.svg) 
 
 ---
 
