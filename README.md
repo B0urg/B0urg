@@ -34,4 +34,5 @@
    </details>
 
 
-- 📫 If you want to contact me just use Discord ([@Bourg#0001](https://discord.com/users/933699621878906921))
+### Contact
+- 📫 If you want to contact me just use Discord (<a href="https://discord.com/users/933699621878906921" style="color: #12aede;">@Bourg#0001 </a>) or for more formally via <a href="mailto:contact@bourg.dev" style="color: #12aede;" target="_blank"> Mail</a>.
