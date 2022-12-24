@@ -6,7 +6,13 @@
 ---
 
 
-- 📫 If you want to contact me just use Discord ([@Bourg#0001](https://discord.com/users/933699621878906921))
+## Tools & Languages
+![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/INTELLIJ_IDEA.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GIT.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GITHUB.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/DOCKER.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GRADLE.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/GITLAB.svg)
+
+![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/NODE.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/JAVASCRIPT.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/HTML5.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/CSS3.svg) 
+
+
+
 <details>
   <summary>My Projects </summary>
 
@@ -27,8 +33,4 @@
    </details>
 
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0urg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 If you want to contact me just use Discord ([@Bourg#0001](https://discord.com/users/933699621878906921))
