@@ -12,10 +12,10 @@
 ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/JAVA.svg)
 ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/NODE.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/JAVASCRIPT.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/HTML5.svg) ![](https://raw.githubusercontent.com/B0urg/B0urg/main/assets/CSS3.svg) 
 
-
+---
 
 <details>
-  <summary>My Projects </summary>
+  <summary> <span style="font-size: 1.3rem"> My Projects </span> </summary>
 
 #### [PluginJam 2 by Devcord(2022-11)](https://github.com/B0urg/DevCord-PluginJam-2022-11)
     
@@ -34,5 +34,5 @@
    </details>
 
 
-### Contact
-- 📫 If you want to contact me just use Discord (<a href="https://discord.com/users/933699621878906921">@Bourg#0001</a>) or for more formally via <a href="mailto:contact@bourg.dev" target="_blank"> Mail</a>.
+<h3> Contact </h3>
+📫 If you want to contact me just use Discord (<a href="https://discord.com/users/933699621878906921">@Bourg#0001</a>) or for more formally via <a href="mailto:contact@bourg.dev" target="_blank"> Mail</a>.
