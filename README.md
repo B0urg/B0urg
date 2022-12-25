@@ -29,7 +29,7 @@
 
     In July 2022, I took part in the LYRIC (Luxembourg youth robotic challenge) in the Level2 Codeclub team.
   
-#### PluginJam 1 by DevCord(2022-04) (Unfortunately i didn't found the repository & also don't know te ranking anymore)
+#### PluginJam 1 by DevCord(2022-04) (Unfortunately i didn't found the repository & also don't know the ranking anymore)
 
    </details>
 
