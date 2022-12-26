@@ -35,4 +35,4 @@
 
 
 <h3> Contact </h3>
-📫 If you want to contact me just use Discord (<a href="https://discord.com/users/933699621878906921">@Bourg#0001</a>) or for more formally via <a href="mailto:contact@bourg.dev" target="_blank"> Mail</a>.
+📫 If you want to contact me, just use Discord (<a href="https://discord.com/users/933699621878906921">@Bourg#0001</a>) or for more formally via <a href="mailto:contact@bourg.dev" target="_blank"> mail</a>.
