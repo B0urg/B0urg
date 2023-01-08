@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=B0urg&color=blue)
 ### Hi there 👋
 
-> I do some Java & Sql stuff(Yeah i know) and some minecraft stuff too. Also i'm currently learning Kotlin.
+> I do some Java & Sql stuff(Yeah I know) and some minecraft stuff too. Also, I'm currently learning Kotlin.
 
 ---
 
