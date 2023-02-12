@@ -22,10 +22,6 @@
     
     In november 2022, i contribiuted in the second PluginJam by DevCord and got 4th Place 😊.
 
-#### [Level2Bot(2022-08)(But i think i will recode this in the futur in Kotlin of course😉)](https://github.com/B0urg/Level2Bot)
-
-    The "official" bot of the Level2 Hackerspace Luxemburg(but it don't really works)
-
 #### [LYRC 2022(2022-07)](https://github.com/felixgasiaux/CodeClub_LYRC_Robot_2022)
 
     In July 2022, I took part in the LYRIC (Luxembourg youth robotic challenge) in the Level2 Codeclub team.
