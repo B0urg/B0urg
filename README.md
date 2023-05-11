@@ -22,10 +22,13 @@
 
 #### [LYRC 2022(2022-07)](https://github.com/felixgasiaux/CodeClub_LYRC_Robot_2022)
 
-    In July 2022, I took part in the LYRIC (Luxembourg youth robotic challenge) in the Level2 Codeclub team.
+    In July 2022, I took part in the LYRC (Luxembourg youth robotic challenge) in the Level2 Codeclub team.
   
 #### PluginJam 1 by DevCord(2022-04) (Unfortunately i didn't found the repository & also don't know the ranking anymore)
 
+#### [LYRC 2023(2023-04)](https://github.com/B0urg/Level2-LYRC-2023)
+   In april 2023, I took again part in he LYRC for the Level2 Codeclub team with the new robotics kits from vex robotics,
+   nnfortunately i couldn't be there on the itself but we still got 3rd place.
    </details>
 
 
