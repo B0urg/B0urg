@@ -16,6 +16,11 @@
 <details>
   <summary> <span style="font-size: 1.3rem"> My Projects </span> </summary>
 
+#### [LYRC 2023(2023-04)](https://github.com/B0urg/Level2-LYRC-2023)
+    In april 2023, I took again part in he LYRC for the Level2 Codeclub team with the new robotics kits from vex robotics,
+    unfortunately i couldn't be there on the itself but we still got 3rd place.
+
+
 #### [PluginJam 2 by Devcord(2022-11)](https://github.com/B0urg/DevCord-PluginJam-2022-11)
     
     In november 2022, i contribiuted in the second PluginJam by DevCord and got 4th Place 😊.
@@ -26,9 +31,6 @@
   
 #### PluginJam 1 by DevCord(2022-04) (Unfortunately i didn't found the repository & also don't know the ranking anymore)
 
-#### [LYRC 2023(2023-04)](https://github.com/B0urg/Level2-LYRC-2023)
-    In april 2023, I took again part in he LYRC for the Level2 Codeclub team with the new robotics kits from vex robotics,
-    unfortunately i couldn't be there on the itself but we still got 3rd place.
    </details>
 
 
